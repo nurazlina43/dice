@@ -1,0 +1,2 @@
+# dice
+ simple dice simulator
