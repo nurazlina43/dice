@@ -1,2 +1,2 @@
 # dice
- simple dice simulator
+ simple javascript dice 
